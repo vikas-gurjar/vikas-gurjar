@@ -1,8 +1,6 @@
 - 👋 Hi, I’m vikas
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Kali linux
-- 💞️ I’m looking to collaborate on any cyber security project
-- 📫you can mail me on -> vikasgurjar903@gmail.com
+- 👀 I’m interested in Cyber security
+- vikasgurjar903@gmail.com
 
 
 <!---
