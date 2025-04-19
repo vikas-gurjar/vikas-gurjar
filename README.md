@@ -1,6 +1,6 @@
 - 👋 Hi, I’m vikas
 - 👀 I’m interested in Cyber security
-- \currently learning about frontend
+- frontend-developer
 - vikasgurjar903@gmail.com
 
 
