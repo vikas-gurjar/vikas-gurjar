@@ -29,8 +29,8 @@
 ---
 
 ## 📫 Reach Me (Optional)
--www.linkedin.com/in/vikas-gurjar-1974p
--vikasgurjar903@gmail.com
+- www.linkedin.com/in/vikas-gurjar-1974p
+- vikasgurjar903@gmail.com
 
 ---
 
